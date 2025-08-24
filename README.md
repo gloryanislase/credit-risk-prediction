@@ -28,8 +28,8 @@ Keterlambatan pembayaran kartu kredit merupakan masalah bisnis yang dapat merugi
 ---
 
 ### ► Sumber Data
+
 Dataset yang digunakan dalam proyek ini adalah data transaksional internal nasabah FinanKu selama periode satu tahun.
-*(Jika datasetnya publik, Anda bisa menambahkan link di sini, misalnya: [Credit Card Default Dataset](https-www-kaggle-com/datasets/uciml/default-of-credit-card-clients-dataset))*
 
 ---
 
@@ -51,8 +51,7 @@ Model **Gradient Boosting (XGBoost)** terpilih sebagai model terbaik dengan perf
 
 Model ini berhasil memenuhi target bisnis dengan mampu mengidentifikasi lebih dari 60% nasabah yang benar-benar akan mengalami keterlambatan bayar.
 
-_*(Di sini Anda bisa menambahkan visualisasi kunci, seperti Feature Importance Plot)*_
-![Feature Importance Plot](images/feature-importance.png)
+![Feature Importance Plot](images/Mean%20Score%20Decrease%20Model%20Gradient%20Boosting%20Eksperimen%201.png)
 
 ---
 
@@ -68,10 +67,13 @@ Proyek ini berhasil mengembangkan model prediksi yang fungsional untuk mengident
 - XGBoost
 - Matplotlib & Seaborn
 - Jupyter Notebook
-
+      
 ---
 
 ### ► Informasi Kontak
-- **Nama**: [Gloryanis Veronica Lase]
-- **LinkedIn**: [linkedin.com/in/gloryanisveronicalase]
-- **Email**: [gloryanislase@gmail.com]
+
+- **Nama**: Gloryanis Veronica Lase
+- **Hubungi Saya**:
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gloryanisveronicalase)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gloryanislase@gmail.com)
