@@ -3,9 +3,9 @@ Machine learning model to predict the risk of late credit card payments.
 
 # Prediksi Risiko Keterlambatan Pembayaran Kartu Kredit
 
-![Python](https-img-shields-io/badge/Python-3-10%2B-blue-style=for-the-badge&logo=python)
-![Scikit-Learn](https-img-shields-io/badge/SciKit--Learn-1-2-2-orange-style=for-the-badge&logo=scikit-learn)
-![Status](https-img-shields-io/badge/Status-Completed-green-style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
+![Scikit-Learn](https://img.shields.io/badge/SciKit--Learn-1.2.2-orange?style=for-the-badge&logo=scikit-learn)
+![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
 
 Proyek ini bertujuan untuk membangun model klasifikasi guna memprediksi nasabah yang berpotensi mengalami keterlambatan pembayaran kartu kredit di FinanKu.
 
